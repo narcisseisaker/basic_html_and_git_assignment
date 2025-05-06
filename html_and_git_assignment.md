@@ -15,7 +15,7 @@
 
 - Difference between a HTML tag and element
 
-  - _HTML tag_ is located between angles brackets and marks the begining and the end of an element wheareas an _HTML element_ is composed of tags, content beetween tags and attributes (if additional informations are needed) inside the begining tag, after the element's name. 
+  - _HTML tag_ is the composition of the label between angles brackets plus angles brackets themselves and it marks the begining and the end of an element wheareas an _HTML element_ is composed of tags, content beetween tags and attributes (if additional informations are needed) inside the begining tag, after the element's name. 
 - Three basic selectors
   - Type selectors
   - Class selectors
